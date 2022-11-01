@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 31 20:49:13 2022
+Created on Mon Nov 1 19:24:56 2022
 
-@author: Leah
+@author: Nojramu & Leah
 """
 
 from scipy.sparse import diags
